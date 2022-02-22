@@ -1,7 +1,7 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+name: Customer Details 
+description:  Customer Details
+title: "[Customer Details]: "
+labels: ["Customer Details", "triage"]
 assignees:
   - octocat
 body:
